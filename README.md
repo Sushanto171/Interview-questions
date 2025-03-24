@@ -1,7 +1,5 @@
 # Interview-questions
 
-Below are detailed answers to all 50 advanced JavaScript interview questions you provided. I’ll keep the explanations concise yet thorough, focusing on clarity and key concepts.
-
 ---
 
 ### **1. Closures & Scope**
